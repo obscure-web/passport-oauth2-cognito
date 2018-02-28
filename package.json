@@ -1,0 +1,31 @@
+{
+  "name": "passport-oauth2-cognito",
+  "version": "0.1.0",
+  "description": "Passport strategy for authenticating and fetching profile data from AWS Cognito User pools using OAuth2 and the Amazon SDK",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bainweb/passport-oauth2-cognito.git"
+  },
+  "keywords": [
+    "passport",
+    "express",
+    "oauth",
+    "aws",
+    "cognito"
+  ],
+  "author": "bainweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bainweb/passport-oauth2-cognito/issues"
+  },
+  "homepage": "https://github.com/bainweb/passport-oauth2-cognito#readme",
+  "dependencies": {
+    "aws-sdk": "^2.203.0",
+    "passport-oauth2": "^1.4.0",
+    "util": "^0.10.3"
+  }
+}
