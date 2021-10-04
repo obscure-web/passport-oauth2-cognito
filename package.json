@@ -25,7 +25,7 @@
   "homepage": "https://github.com/bainweb/passport-oauth2-cognito#readme",
   "dependencies": {
     "aws-sdk": "^2.203.0",
-    "passport-oauth2": "^1.4.0",
+    "passport-oauth2": "^1.6.1",
     "util": "^0.10.3"
   }
 }
